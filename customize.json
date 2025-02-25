@@ -1,5 +1,5 @@
 {
-  "greeting": "Hii!",
+  "greeting": "Hey!",
   "name": "Garima",
   "greetingText": "I really like your name btw!",
   "wishText": "May the js.prototypes always be with you! ;)",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroSmiley": "Pratik :)"
 }
